@@ -2,6 +2,7 @@ class HomeController < ApplicationController
 
 	def show
 	end
+
   
   #POST to send_email
   def send_email
